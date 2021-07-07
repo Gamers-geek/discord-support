@@ -1,0 +1,23 @@
+{
+  "name": "discord-support",
+  "version": "1.0.0",
+  "description": "A Discord Bot for DM support.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gamers-geek/discord-support.git"
+  },
+  "author": "Gamers-geek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gamers-geek/discord-support/issues"
+  },
+  "homepage": "https://github.com/Gamers-geek/discord-support#readme"
+}
